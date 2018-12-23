@@ -32,6 +32,7 @@
     "rxjs": "5.5.11",
     "securerandom": "0.0.2",
     "sw-toolbox": "3.6.0",
+    "xcode": "^1.1.0",
     "zone.js": "0.8.26"
   },
   "devDependencies": {
